@@ -1,6 +1,6 @@
 <template>
   <main>
-    <HeaderParent/>
+    <HeaderParent />
     <slot />
     <Footer />
     <div>
