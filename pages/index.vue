@@ -4,6 +4,6 @@
 
 <template>
   <div>
-    <btn >Teste botão</btn>
+    <btn>Teste botão</btn>
   </div>
 </template>
