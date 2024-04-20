@@ -1,6 +1,7 @@
 <template>
   <main>
-    <HeaderParent />
+    <HeaderParent><HeaderChildren /></HeaderParent>
+
     <slot />
     <Footer />
     <div>

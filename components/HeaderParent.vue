@@ -19,7 +19,7 @@
           </NuxtLink>
         </div>
       </div>
-      <slot />
     </Container>
+    <slot />
   </div>
 </template>
