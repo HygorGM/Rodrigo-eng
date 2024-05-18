@@ -4,6 +4,8 @@
 
 <template>
   <div>
-    <btn>Teste botão</btn>
+    <HomeSobreMim />
+    <HomeServicos />
+    <HomeParceiros />
   </div>
 </template>
