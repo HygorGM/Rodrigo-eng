@@ -4,8 +4,6 @@
 
 <template>
   <div>
-    <HomeSobreMim />
-    <HomeServicos />
-    <HomeParceiros />
+    parceiros
   </div>
 </template>
