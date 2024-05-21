@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white">
+
     <Container>
       <div class="grid grid-flow-col justify-center gap-10 p-8">
         <NuxtLink to="#URL">
@@ -16,5 +16,5 @@
         </NuxtLink>
       </div>
     </Container>
-  </div>
+  
 </template>
