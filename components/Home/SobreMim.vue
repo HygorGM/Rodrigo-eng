@@ -10,7 +10,7 @@
       </div>
       <div>
         <div class="intem-start mb-2">
-          <h1 class="bg drop-shadow-lg-1 text-2xl text-amber-500 font-bold">
+          <h1 class="text-2xl text-amber-500 font-bold">
             SOBRE MIM
           </h1>
         </div>
