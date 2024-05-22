@@ -10,11 +10,11 @@
           <p>Segunda a sexta-feira: 08 às 18hs | Sábado: 08 às 12hs</p>
         </div>
         <div class="flex gap-3">
-          <NuxtLink class="text-lg" to="#URL">
+          <NuxtLink class="text-lg font-medium" to="#URL">
             Duvida Frequentes
           </NuxtLink>
           <div>|</div>
-          <NuxtLink class="text-lg" to="#URL">
+          <NuxtLink class="text-lg font-medium" to="#URL">
             Orçamento Rapido
           </NuxtLink>
         </div>
