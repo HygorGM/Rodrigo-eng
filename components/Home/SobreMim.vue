@@ -3,9 +3,7 @@
 </script>
 
 <template>
-  <div>
     <Container>
-      <div>
         <div class="grid grid-cols-2 m-24 mx-56 gap-13 bg-stone-50 p-7 drop-shadow-xl">
           <div>
             <NuxtImg class="w-12 w-full" src="EngCivil460.jpg" />
@@ -36,7 +34,5 @@
             </ul>
           </div>
         </div>
-      </div>
     </Container>
-  </div>
 </template>
