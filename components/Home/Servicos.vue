@@ -4,7 +4,10 @@ const servicos = ref(getServices())
 
 <template>
   <div>
-    <container>
+    <container class="bg-stone-50 drop-shadow-xl">
+      <div class="bg drop-shadow-lg-1 flex justify-center pt-5 text-2xl text-amber-500 font-bold">
+        <h1>SERVIÇOS</h1>
+      </div>
       <div class="py-12">
         <div class="flex flex-wrap gap-6">
           <div v-for="(servico, i) in servicos" :key="i" class="grid mx-auto min-w-sm py-6 text-center">

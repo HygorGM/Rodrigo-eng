@@ -1,5 +1,5 @@
 <template>
-  <div class="border-b-3 border-amber from-white via-stone-100 bg-gradient-to-b">
+  <div class="border-b-3 border-amber from-white via-stone-100 bg-gradient-to-r">
     <Container class="grid grid-flow-col mx-13 items-center justify-between">
       <div class="w-8rem">
         <NuxtImg size="126px" src="/logo.svg" />
@@ -10,11 +10,11 @@
           <p>Segunda a sexta-feira: 08 às 18hs | Sábado: 08 às 12hs</p>
         </div>
         <div class="flex gap-3">
-          <NuxtLink to="#URL">
+          <NuxtLink class="bg drop-shadow-lg-1 text-amber-500 font-bold" to="#URL">
             Duvida Frequentes
           </NuxtLink>
           <div>|</div>
-          <NuxtLink to="#URL">
+          <NuxtLink class="bg drop-shadow-lg-1 text-amber-500 font-bold" to="#URL">
             Orçamento Rapido
           </NuxtLink>
         </div>
