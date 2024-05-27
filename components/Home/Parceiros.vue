@@ -20,7 +20,7 @@
             <NuxtLink target="_blank" class="flex items-center font-bold" to="https://www.instagram.com/mjc_premoldados">
               <NuxtImg class="w-8" src="insta.svg" />
             </NuxtLink>
-        </div>
+          </div>
         </div>
       </div>
     </div>
