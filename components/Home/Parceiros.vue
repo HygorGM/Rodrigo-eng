@@ -12,12 +12,12 @@
       </div>
       <div class="flex items-center gap-10">
         <NuxtImg class="w-56 rounded-3xl" src="mjc.jpeg" />
-        <div class="text-start">
+        <div>
           <h1 class="mb-2 text-lg font-bold">
             MJC Pré-moldados | Telhas | Concreteira
           </h1>
           <div>
-            <NuxtLink target="_blank" class="flex items-center gap-3 font-bold" to="https://www.instagram.com/mjc_premoldados">
+            <NuxtLink target="_blank" class="flex items-center font-bold" to="https://www.instagram.com/mjc_premoldados">
               <NuxtImg class="w-8" src="insta.svg" />
             </NuxtLink>
           </div>

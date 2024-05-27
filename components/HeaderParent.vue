@@ -10,11 +10,11 @@
           <p>Segunda a sexta-feira: 08 às 18hs | Sábado: 08 às 12hs</p>
         </div>
         <div class="flex gap-3">
-          <NuxtLink class="text-lg font-medium" to="#URL">
+          <NuxtLink class="text-lg font-medium" target="_blank" to="https://api.whatsapp.com/send?phone=5562993942206&text=Ol%C3%A1%20Eng%C2%BA%20Rodrigo%20Marques,%20estou%20precisando%20dos%20seus%20servi%C3%A7os%20t%C3%A9cnicos.%20Pode%20me%20Ajudar%3F">
             Duvida Frequentes
           </NuxtLink>
           <div>|</div>
-          <NuxtLink class="text-lg font-medium" to="#URL">
+          <NuxtLink class="text-lg font-medium" target="_blank" to="https://api.whatsapp.com/send?phone=5562993942206&text=Ol%C3%A1%20Eng%C2%BA%20Rodrigo%20Marques,%20estou%20precisando%20dos%20seus%20servi%C3%A7os%20t%C3%A9cnicos.%20Pode%20me%20Ajudar%3F">
             Orçamento Rapido
           </NuxtLink>
         </div>
