@@ -6,7 +6,9 @@ const servicos = ref(getServices())
   <div>
     <container class="bg-stone-50 drop-shadow-xl">
       <div class="flex justify-center pt-5 text-2xl text-amber-500 font-bold">
-        <h1>SERVIÇOS</h1>
+        <NuxtLink to="#URL">
+          SERVIÇOS
+        </NuxtLink>
       </div>
       <div class="py-12">
         <div class="flex flex-wrap gap-6">
