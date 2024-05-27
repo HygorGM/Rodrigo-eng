@@ -9,10 +9,10 @@
         <NuxtImg class="w-12 w-full" src="EngCivil460.jpg" />
       </div>
       <div>
-        <div class="intem-start mb-2">
-          <h1 class="text-2xl text-amber-500 font-bold">
+        <div class="intem-start mb-2 text-2xl text-amber-500 font-bold">
+          <NuxtLink to="#URL">
             SOBRE MIM
-          </h1>
+          </NuxtLink>
         </div>
         <div class="text-start">
           <p class="mb-2">
