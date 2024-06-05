@@ -6,7 +6,7 @@
   <Container>
     <div class="grid grid-cols-2 m-24 mx-56 gap-13 bg-stone-50 p-7 drop-shadow-xl">
       <div>
-        <NuxtImg class="w-12 w-full" src="EngCivil460.jpg" />
+        <NuxtImg class="w-full" src="EngCivil460.jpg" />
       </div>
       <div>
         <div class="intem-start mb-2 text-2xl text-amber-500 font-bold">
