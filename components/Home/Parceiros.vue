@@ -4,7 +4,7 @@
 
 <template>
   <Container>
-    <div class="mx-56gap-13 m-24 bg-stone-50 p-7 drop-shadow-xl">
+    <div class="bg-stone-50 p-24 p-7 drop-shadow-xl">
       <div class="mb-8">
         <NuxtLink class="text-amber-500 font-bold" to="#URL">
           PARCEIROS
