@@ -4,12 +4,12 @@
 
 <template>
   <Container>
-    <div class="grid grid-cols-2 m-24 mx-56 gap-13 bg-stone-50 p-7 drop-shadow-xl">
+    <div class="grid mx-auto max-w-3xl gap-13 bg-stone-50 drop-shadow-xl md:grid-cols-2">
       <div>
         <NuxtImg class="w-full" src="EngCivil460.jpg" />
       </div>
       <div>
-        <div class="intem-start mb-2 text-2xl text-amber-500 font-bold">
+        <div class="mb-2 text-2xl text-amber-500 font-bold">
           <NuxtLink to="#URL">
             SOBRE MIM
           </NuxtLink>
