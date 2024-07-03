@@ -4,9 +4,9 @@
 
 <template>
   <Container>
-    <div class="grid mx-auto max-w-3xl gap-13 bg-stone-50 drop-shadow-xl md:grid-cols-2">
+    <div class="grid mx-auto max-w-3xl gap-13 bg-stone-50 md:drop-shadow-xl md:grid-cols-2">
       <div>
-        <NuxtImg class="w-full" src="EngCivil460.jpg" />
+        <NuxtImg class="rounded-lg w-full" src="EngCivil460.jpg" />
       </div>
       <div>
         <div class="mb-2 text-2xl text-amber-500 font-bold">

@@ -1,5 +1,5 @@
 <template>
-  <div class="border-b-3 border-amber from-white via-stone-100 bg-gradient-to-r">
+  <div class="mb-5 border-b-1 md:border-b-3 border-amber from-white via-stone-100 bg-gradient-to-r">
     <Container class="grid grid-flow-col mx-13 items-center justify-between">
       <div class="w-8rem">
         <NuxtImg size="126px" src="/logo.svg" />

@@ -1,6 +1,6 @@
 <template>
   <Container>
-    <div class="grid grid-flow-col justify-center gap-10 p-8">
+    <div class="grid-flow-col hidden justify-center gap-10 p-8 md:grid">
       <NuxtLink class="text-amber-500 font-bold" to="#URL">
         SOBRE MIM
       </NuxtLink>
