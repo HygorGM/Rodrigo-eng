@@ -1,5 +1,5 @@
 <template>
-  <div class="border-t-1 md:border-t-3 border-amber from-white via-stone-100 bg-gradient-to-r">
+  <div class="border-t-1 border-amber from-white via-stone-100 bg-gradient-to-r md:border-t-3">
     <Container>
       <div class="grid grid-cols-1 mt-4 justify-between gap-10 font-bold md:flex">
         <div class="flex gap-8">
