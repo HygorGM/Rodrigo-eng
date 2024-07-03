@@ -1,5 +1,7 @@
 <template>
+ 29-responsividade-sobre-mim
   <div class="border-t-1 border-amber from-white via-stone-100 bg-gradient-to-r pb-5 md:border-t-3">
+  <div class="border-t-1 border-amber from-white via-stone-100 bg-gradient-to-r md:border-t-3">main
     <Container>
       <div class="grid grid-cols-1 mt-4 justify-between gap-10 font-bold md:flex">
         <div class="flex gap-8">
