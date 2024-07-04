@@ -4,9 +4,9 @@
 
 <template>
   <Container>
-    <div class="grid mx-auto max-w-3xl gap-13 bg-stone-50 md:drop-shadow-xl md:grid-cols-2">
+    <div class="grid mx-auto max-w-3xl gap-13 bg-stone-50 md:grid-cols-2 mb-10 drop-shadow-2xl">
       <div>
-        <NuxtImg class="rounded-lg w-full" src="EngCivil460.jpg" />
+        <NuxtImg class="w-full rounded-lg" src="EngCivil460.jpg" />
       </div>
       <div>
         <div class="mb-2 text-2xl text-amber-500 font-bold">
@@ -23,7 +23,7 @@
             minhas especialidades:
           </p>
         </div>
-        <ul class="list-disc pl-6 text-left">
+        <ul class="mb-3 list-disc pl-6 text-left">
           <li>Gerenciamento de obras</li>
           <li>Projetos arquitetônicos</li>
           <li>Projetos complementares (Hidraulico, eletrico, estrutural e incêndio)</li>
