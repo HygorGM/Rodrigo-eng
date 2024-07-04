@@ -5,6 +5,7 @@
 <template>
   <Container>
     <div class="grid mx-auto max-w-3xl gap-13 bg-stone-50 md:grid-cols-2 mb-10 drop-shadow-2xl">
+    <div class="grid mx-auto max-w-3xl gap-13 bg-stone-50 md:grid-cols-2 md:drop-shadow-xl">
       <div>
         <NuxtImg class="w-full rounded-lg" src="EngCivil460.jpg" />
       </div>
