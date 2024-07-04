@@ -4,7 +4,7 @@ const servicos = ref(getServices())
 
 <template>
   <div>
-    <container class="bg-stone-50 md:drop-shadow-xl">
+    <container class="bg-stone-50 drop-shadow-2xl md:mb-15">
       <div class="flex justify-center pt-5 text-2xl text-amber-500 font-bold">
         <NuxtLink to="#URL">
           SERVIÇOS
